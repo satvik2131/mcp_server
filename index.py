@@ -10,8 +10,8 @@ from pydantic import AnyUrl, Field
 import readabilipy
 from pathlib import Path
 
-TOKEN = "<generated_token>"
-MY_NUMBER = "9189XXXXXXXX"  # Insert your number {91}{Your number}
+TOKEN = "c0b13aceba2a"
+MY_NUMBER = "917509593038"  # Insert your number {91}{Your number}
 
 
 class RichToolDescription(BaseModel):
