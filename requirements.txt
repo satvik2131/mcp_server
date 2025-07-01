@@ -3,4 +3,4 @@ markdownify
 readabilipy
 httpx
 pydantic
-
+openai
